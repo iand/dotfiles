@@ -1,0 +1,83 @@
+# conky configuration
+#
+# The list of variables has been removed from this file in favour
+# of keeping the documentation more maintainable.
+# Check http://conky.sf.net for an up-to-date-list.
+#
+# For ideas about how to modify conky, please see:
+# http://crunchbanglinux.org/forums/topic/59/my-conky-config/
+#
+# For help with conky, please see:
+# http://crunchbanglinux.org/forums/topic/2047/conky-help/
+#
+# Enjoy! :)
+##############################################
+#  Settings
+##############################################
+background yes
+use_xft yes
+xftfont inconsolata:size=10
+xftalpha 1
+update_interval 1.0
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 200 200
+maximum_width 266
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color d8d8d8
+default_shade_color 000000
+default_outline_color d9d7d6
+alignment top_right
+gap_x 12
+gap_y 24
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale no
+##############################################
+#  Output
+##############################################
+TEXT
+$alignc S Y S T E M   I N F O
+${hr}
+Host:$alignr$nodename
+Uptime:$alignr$uptime
+RAM:$alignr$mem/$memmax
+CPU usage:$alignr${cpu cpu0}%
+
+$nodename - $sysname $kernel on $machine
+
+$alignc D I S K   I N F O
+${hr}
+/         ${fs_used_perc /}% ${fs_bar /}
+/home     ${fs_used_perc /home}% ${fs_bar /home}
+/opt/data ${fs_used_perc /opt/data}% ${fs_bar /opt/data}
+
+$alignc N E T W O R K
+${hr}
+ Down:${color #8844ee} ${downspeed wlan0} k/s${color lightgrey} ${offset 50}Up:${color #22ccff} ${upspeed wlan0} k/s${color}
+
+$alignc P R O C E S S E S
+${hr}
+Load: $loadavg
+${color lightgrey}Processes:$color $processes  ${color grey}Running:$color $running_processes
+CPU Usage:${cpu}% ${cpubar}
+${color black}${cpugraph 000000 5000a0}
+${color lightgrey}RAM Usage:$color $mem/$memmax - $memperc% $membar
+${color lightgrey}Swap Usage:$color $swap/$swapmax - $swapperc% ${swapbar}
+$color$stippled_hr
+${color}Name               PID    CPU%   MEM%
+${color #ddaa00} ${top name 1} ${top pid 1} ${top cpu 1} ${top mem 1}
+${color lightgrey} ${top name 2} ${top pid 2} ${top cpu 2} ${top mem 2}
+${color lightgrey} ${top name 3} ${top pid 3} ${top cpu 3} ${top mem 3}
+${color}Mem usage
+${color #ddaa00} ${top_mem name 1} ${top_mem pid 1} ${top_mem cpu 1} ${top_mem mem 1}
+${color lightgrey} ${top_mem name 2} ${top_mem pid 2} ${top_mem cpu 2} ${top_mem mem 2}
+${color lightgrey} ${top_mem name 3} ${top_mem pid 3} ${top_mem cpu 3} ${top_mem mem 3}
