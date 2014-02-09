@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"draw",
+				"drawPlayer"
+			],
+			[
+				"dirt",
+				"dirtTexture"
+			],
+			[
+				"tile",
+				"tile_size"
+			],
+			[
+				"started",
+				"IsStarted"
+			],
+			[
+				"Get",
+				"GetTicks"
+			],
+			[
+				"start",
+				"startTicks"
+			],
+			[
+				"paused",
+				"pausedTicks"
+			],
+			[
+				"screen",
+				"screen_flags"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/iand/.bashrc",
+			"settings":
+			{
+				"buffer_size": 3436,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 297.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/iand/wip/wedb/templates/main.tmpl",
+		"/home/iand/bin/jena-fuseki-0.2.2/config-tdb.ttl",
+		"/home/iand/wip/ntriples/ntriples.go",
+		"/home/iand/wip/argo/store.go",
+		"/home/iand/wip/argo/parserserializer.go",
+		"/home/iand/wip/argo/rdfxmlparse/rdfxmlparse.go",
+		"/home/iand/wip/argo/graph.go",
+		"/home/iand/wip/argo/rdfxml.go",
+		"/home/iand/wip/argo/ntriples.go",
+		"/home/iand/wip/kdgo/argo/ntriples.go",
+		"/home/iand/wip/kdgo/argo/term.go",
+		"/home/iand/wip/argo/src/argo/triple.go",
+		"/home/iand/Documents/kindle/first-across-continent/meta.opf",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/extract.sh",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/meta.xml",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/build.sh",
+		"/home/iand/wip/fb-factbooks/topic-ideas.txt",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/buccaneers-and-pirates.html",
+		"/home/iand/Documents/kindle/first-across-continent/first-across-continent.html",
+		"/home/iand/Dropbox/code/worddefs.go",
+		"/home/iand/wip/tmp/readabstracts.go",
+		"/home/iand/wip/amberfell/fonts.go",
+		"/home/iand/wip/ntriples/ntriples_test.go",
+		"/home/iand/wip/ntriples/README.md",
+		"/home/iand/wip/wedb/devnotes.md",
+		"/home/iand/wip/wedb/main.go",
+		"/home/iand/wip/wedb/main_test.go",
+		"/home/iand/wip/microdata/microdata.go",
+		"/home/iand/.config/sublime-text-2/Packages/Modific/README.md",
+		"/home/iand/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/iand/.vim/syntax/go.vim",
+		"/home/iand/.vimrc",
+		"/home/iand/.config/sublime-text-2/Packages/Modific/Default (Linux).sublime-keymap",
+		"/home/iand/wip/tmp/redis.go",
+		"/home/iand/backup/platform-stores/backup.sh",
+		"/home/iand/wip/microdata/microdata_test.go",
+		"/home/iand/wip/microdata/README.md",
+		"/home/iand/wip/tmp/mdexample.go",
+		"/home/iand/wip/amberfell/chunk_test.go",
+		"/home/iand/wip/csvpar/csvstd.go",
+		"/home/iand/wip/amberfell/functions_test.go",
+		"/home/iand/.viminfo",
+		"/home/iand/.cache/.fr-FfcM2L/projects/2009/semanticlibrary/bin/reload",
+		"/home/iand/web/productdb.org/www/htdocs/localconfig.inc.php",
+		"/home/iand/wip/tmp/pynappl-read-only/bin/tshell",
+		"/home/iand/wip/tmp/pynappl-read-only/bin/tstore",
+		"/home/iand/backup/platform-stores/schemapedia",
+		"/home/iand/web/semanticlibrary.org/www/application/config/config.php",
+		"/home/iand/web/semanticlibrary.org/www/htdocs/index.php",
+		"/home/iand/web/dataincubator.org/airports/htdocs/index.php",
+		"/home/iand/backup/platform-stores/semlib",
+		"/home/iand/backup/platform-stores/openvocab",
+		"/home/iand/backup/platform-stores/iand",
+		"/home/iand/web/productdb.org/www/application/config/config.php",
+		"/home/iand/web/vocab.org/open/htdocs/localconfig.inc.php",
+		"/home/iand/web/vocab.org/open-v20-final/htdocs/localconfig.inc.php",
+		"/home/iand/.cache/.fr-v7N02Q/meta",
+		"/home/iand/bin/kindlegen/docs/english/Release Notes.html",
+		"/home/iand/bin/kindlegen/docs/english/Readme.txt",
+		"/home/iand/Dropbox/archive/Clipperz_20120606.html",
+		"/home/iand/.cache/.fr-OvfiuU/index.html",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/gutenberg.htm",
+		"/home/iand/Documents/kindle/buccaneers-and-pirates/buccaneers-and-pirates./manifest.rdf",
+		"/home/iand/.cache/.fr-8gGV5P/ReadMe.txt",
+		"/home/iand/.cache/.fr-o1Q4g3/KindleTemplate.html",
+		"/tmp/octree_impl.cpp",
+		"/home/iand/wip/amberfell/README.md",
+		"/home/iand/wip/gofirst/sdltest.go",
+		"/home/iand/wip/amberfell/pause.go",
+		"/home/iand/wip/productdb/trunk/makedump",
+		"/home/iand/tmp/spec.html",
+		"/home/iand/wip/productdb/trunk/graphutils.py",
+		"/home/iand/wip/productdb/trunk/upload",
+		"/home/iand/wip/kasabi-recommend/queries.txt",
+		"/home/iand/wip/kasabi-recommend/test.py",
+		"/home/iand/wip/sparql-templates/sparqltemplate.php",
+		"/home/iand/wip/sparql-templates/demo.php",
+		"/home/iand/wip/kasabi-recommend/recommend.py",
+		"/home/iand/wip/kasabi-georss/index.php",
+		"/home/iand/wip/kasabi-georss/test.html",
+		"/home/iand/wip/amberfell/recipes.go",
+		"/home/iand/wip/amberfell/forge.go",
+		"/home/iand/wip/amberfell/mob.go",
+		"/home/iand/wip/amberfell/wolf.go",
+		"/home/iand/wip/tmp/image.go",
+		"/home/iand/wip/amberfell/carpentersbench.go",
+		"/home/iand/wip/amberfell/steamgenerator.go",
+		"/home/iand/wip/amberfell/campfire.go",
+		"/home/iand/wip/amberfell/amberfellpump.go",
+		"/home/iand/wip/amberfell/amberfellcondenser.go",
+		"/home/iand/wip/amberfell/beesnest.go",
+		"/home/iand/wip/amberfell/furnace.go",
+		"/home/iand/wip/tmp/ticker.go",
+		"/home/iand/wip/amberfell/amberfell.sublime-workspace",
+		"/home/iand/wip/amberfell/CREDITS",
+		"/home/iand/.cache/.fr-Bq9LWQ/opensteer/src/SimpleVehicle.cpp",
+		"/home/iand/.cache/.fr-HhkxL1/opensteer/src/Vec3.cpp",
+		"/home/iand/.cache/.fr-Tiai3N/opensteer/src/main.cpp",
+		"/home/iand/.cache/.fr-XSjVuk/opensteer/src/OpenSteerDemo.cpp",
+		"/home/iand/.cache/.fr-xMdhps/opensteer/plugins/CaptureTheFlag.cpp",
+		"/home/iand/wip/amberfell/geometry_test.go",
+		"/home/iand/tmp/openttd/trunk/src/genworld.cpp",
+		"/home/iand/tmp/openttd/trunk/src/industry_cmd.cpp",
+		"/home/iand/tmp/openttd/trunk/src/industry.h",
+		"/home/iand/tmp/openttd/trunk/src/map_func.h",
+		"/home/iand/tmp/openttd/trunk/src/industrytype.h",
+		"/home/iand/gocode/src/github.com/iand/perlin/perlin.go",
+		"/home/iand/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/home/iand/wip/amberfell/world.go",
+		"/home/iand/wip/perlin/perlin.go",
+		"/home/iand/wip/amberfell/window.go",
+		"/home/iand/wip/amberfell/gameloop.go",
+		"/home/iand/web/talisians.com/www/conf/venus.ini",
+		"/usr/local/go/src/pkg/github.com/kierdavis/go/mm3dmodel/mm3dmodel.go",
+		"/home/iand/wip/amberfell/res/player-texture-guide.txt",
+		"/home/iand/wip/amberfell/amberfell.go",
+		"/home/iand/wip/amberfell/constants.go",
+		"/home/iand/wip/amberfell/functions.go",
+		"/home/iand/wip/mc-ogl-shaders/render_experiments/main.py",
+		"/home/iand/wip/mc-ogl-shaders/render_experiments/volume.py",
+		"/home/iand/wip/mc-ogl-shaders/render_experiments/ext/ext.c",
+		"/home/iand/wip/mc-ogl-shaders/render_experiments/occlusion.py",
+		"/home/iand/wip/mc-ogl-shaders/render_experiments/util.py",
+		"/home/iand/wip/amberfell/shapes.go",
+		"/home/iand/wip/amberfell/geometry.go",
+		"/home/iand/wip/amberfell/timer.go",
+		"/home/iand/wip/amberfell/viewport.go",
+		"/home/iand/wip/amberfell/player.go"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-amberfell",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dev6",
+			"dev7",
+			"iand-dev7",
+			"dev1",
+			"issing",
+			"write",
+			"bufio",
+			"	",
+			"Subject: ",
+			"Object: ",
+			"Predicate: ",
+			")},",
+			"Triple{",
+			", termtype: RdfLiteral}}",
+			"o: ",
+			"p: ",
+			"s: ",
+			", termtype: RdfIri}",
+			"RdfTerm{value: \"http",
+			"RdfTerm{value: ",
+			"newtriple",
+			"newtriple#",
+			"goutil",
+			"vector",
+			"findPointsBehindSeg",
+			"->",
+			"handle_user",
+			"# /home/iand/wip/tmp/pynappl-read-only/bin/tstore backup -u iand -p m064w058 -f /home/iand/backup/platform-stores/",
+			"backup",
+			"                           'http://api.talis.com/stores/",
+			"data.items",
+			"item.id",
+			"item.types",
+			".properties",
+			".properties[",
+			"walk",
+			"Read",
+			"itemsc",
+			"printl",
+			"buf.",
+			"bytes",
+			"func (",
+			"space",
+			"unread",
+			"parseTerm",
+			"peek",
+			"[DIR]	",
+			"[ ]	",
+			"img",
+			"tiff",
+			"SHAPE_BLOCK",
+			"neighbours[NORTH_FACE] != BLOCK_AIR",
+			"neighbours[EAST_FACE] != BLOCK_AIR",
+			"neighbours[SOUTH_FACE] != BLOCK_AIR",
+			"neighbours[WEST_FACE] != BLOCK_AIR",
+			"].transparent",
+			"items[neigh",
+			"items[",
+			"AllNeighbours",
+			"ApproxBlockAt",
+			"DSetN",
+			"applyf",
+			"applyforces",
+			"neighbours[NORTH_FACE] != BLOCK_AIR",
+			"neighbours",
+			"TerrainCube",
+			"transpare",
+			"visible",
+			"neig",
+			"TheWorld",
+			"elocity",
+			"RenderQuads",
+			"wolfpac",
+			"apply",
+			"Act(",
+			"Act",
+			"velocity",
+			"energy",
+			"Rotate",
+			"spawn",
+			"sunlightLevel",
+			"gl.",
+			"chunkself",
+			"chunk",
+			"Neighbours(",
+			"Cuboid",
+			"HasVisibleFaces",
+			"visible",
+			"featuresLoaded",
+			"PreRender",
+			"prerender",
+			"GenerateChunkFeatures",
+			"ChunkLoadedFor",
+			"self",
+			"pos",
+			"neigh",
+			"GenerateAmberfell",
+			"GenerateChunkFeatures",
+			"neig",
+			"neigh",
+			"playerRect",
+			"AllNeighbours",
+			"neigh",
+			"Draw(",
+			"cuboid2",
+			"face",
+			"ORIENTED_CUBE",
+			"false,\\n",
+			"block.texture",
+			"blocktype",
+			"items[uint16(blockid)]",
+			"blenc",
+			"block",
+			"Cuboid2",
+			"orient",
+			"atv",
+			"NewItem",
+			"NewBlock",
+			"chunkCoordsFromWorld",
+			"GetChunkForBlock",
+			"index",
+			"GetChunkForBlock",
+			"chunkcoords",
+			"getc",
+			"NewChunk",
+			"self",
+			"generate",
+			", TEXTURE_NONE, STRENGTH_WOOD, false, true, false, nil"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dev7",
+			"schemapedia",
+			"openvocab",
+			"productdb",
+			"dev7",
+			"dev6",
+			"dev5",
+			"dev4",
+			"dev3",
+			"  ",
+			"",
+			")),",
+			"NewTriple(",
+			")",
+			"Object: ",
+			"Predicate: ",
+			"Subject: ",
+			")",
+			"NewResource(\"http",
+			"NewResource(",
+			".",
+			"",
+			"/home/iand/wip/tmp/pynappl-read-only/bin/tstore backup -u iand -p m064w058 -f /home/iand/backup/platform-stores/",
+			"data.Items",
+			"item.ID",
+			"item.Types",
+			".Properties",
+			".Properties[",
+			"Parse",
+			"",
+			"SHAPE_CUBE",
+			"n.N()",
+			"n.E()",
+			"n.S()",
+			"n.W()",
+			")].transparent",
+			")\n)].transparent",
+			"items[ItemId(neigh",
+			"items[ItemId(",
+			"opaqueNeighbours & (1 << NORTH_FACE) == (1 << NORTH_FACE)",
+			"self",
+			"chunkself",
+			"chunk",
+			"mobRect2",
+			"SHAPE_ORIENTED_CUBE",
+			"blocktype.texture",
+			"blocktype",
+			"NewItemType",
+			"NewBlockType",
+			"",
+			"(angle >= 360-float64(behaviour.targetAngle) || angle <= float64(behaviour.targetAngle))",
+			"craftingProductRects",
+			"craftingProductSlots",
+			"craftingComponentSlots",
+			"craftingComponentRects",
+			"slotsInRow",
+			"slotstep",
+			"timesObjects",
+			"selectedFace == DOWN_FACE, shadeLevels[DOWN_FACE], ",
+			"selectedFace == UP_FACE, shadeLevels[UP_FACE], ",
+			"selectedFace == SOUTH_FACE, shadeLevels[SOUTH_FACE], ",
+			"selectedFace == NORTH_FACE, shadeLevels[NORTH_FACE], ",
+			"selectedFace == WEST_FACE, shadeLevels[WEST_FACE], ",
+			"selectedFace == EAST_FACE, shadeLevels[EAST_FACE], ",
+			"visible [6]bool, shadeLevels [6]int, selectedFace",
+			"visible, shadeLevels, selectedFace",
+			"block.texture2",
+			"block.texture1",
+			"",
+			"i",
+			"update2000ms",
+			"vertices",
+			"j",
+			"self",
+			"NOISE_SCALE",
+			"MAP_DIAM",
+			"Item",
+			"console",
+			"self",
+			"AddFace",
+			"SlabCross(vertexBuffer, x, y, z, ORIENT_EAST",
+			", x float32, y float32, z float32, orient",
+			"NORMALS[DOWN_FACE]",
+			"NORMALS[UP_FACE]",
+			"NORMALS[SOUTH_FACE]",
+			"NORMALS[NORTH_FACE]",
+			"NORMALS[WEST_FACE]",
+			"NORMALS[EAST_FACE]",
+			"vertexBuffer.vertices",
+			"vertexBuffer.indices",
+			"vertexBuffer",
+			"v",
+			"vertexData",
+			"[2]float32{block.texpos[",
+			"",
+			", ",
+			"block.TexPos(",
+			"",
+			"p3",
+			"p4",
+			"p2",
+			"p1",
+			"LEAVES",
+			"textures",
+			"//gl.Color4ub(96, 208, 96, 255)",
+			"",
+			"ch",
+			"96, 208, 96, 255",
+			"96, 208, 96, 64",
+			"64, 192, 64, 255",
+			"64, 192, 64, 64",
+			"self",
+			"%18.13f",
+			", ",
+			"i",
+			"j",
+			"Vectori",
+			"case BLOCK_DIRT:",
+			"case BLOCK_STONE:",
+			"",
+			"af.ThePlayer",
+			"af.World",
+			"af.world",
+			"MapTextures",
+			"width",
+			"scale",
+			"",
+			"w."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/iand/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3436,
+								3436
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1446.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 300.0
+	},
+	"project": "dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/iand/wip/default.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
