@@ -7,3 +7,5 @@ git config --global branch.master.remote origin
 
 echo "Setting default merge branch to be master"
 git config --global branch.master.merge refs/heads/master
+
+git config --global remote.origin.push HEAD
